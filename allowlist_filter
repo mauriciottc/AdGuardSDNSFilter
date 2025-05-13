@@ -1,0 +1,15 @@
+!
+! Title: AdGuard DNS allowlist filter
+! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
+! Version: 0.0.1
+! Homepage: https://github.com/mauriciottc/AdGuardSDNSFilter
+! Last modified: 2025-05-13T18:51:00.000Z
+!
+||flag.lab.amplitude.com^
+||profile-api.amplitude.com^
+||api.amplitudeexperiment.com^
+||api*.amplitude.com^
+||api.lab.eu.amplitude.com^
+||cdn.amplitude.com^
+||flag.lab.eu.amplitude.com^
+@@||analytics.amplitude.com^|
