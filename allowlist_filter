@@ -5,6 +5,7 @@
 ! Homepage: https://github.com/mauriciottc/AdGuardSDNSFilter
 ! Last modified: 2025-05-13T18:51:00.000Z
 !
+||static.amplitude.com^
 ||flag.lab.amplitude.com^
 ||profile-api.amplitude.com^
 ||api.amplitudeexperiment.com^
